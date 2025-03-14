@@ -1,7 +1,6 @@
 # Overview
 
-This repository contains solutions for **Problem 2** and **Problem 4**. Each problem’s solution code is organized into its own folder, with each sub-problem having a dedicated Java file. The code follows high-quality coding practices as discussed in class, emphasizing readability, maintainability, and correctness. 
-
+This repository contains solutions for **Problem 2** and **Problem 4**. Each problem’s solution code is organized into its own folder, with each sub-problem having a dedicated Java file.
 ---
 
 ## Directory Structure
